@@ -3,6 +3,6 @@ akses yii generator : localhost/nama_folder_projek/web/gii
 
 1. set up database
 2. membuat database
-3. set up file web
+3. set up file web (jangan lupa menambahkan token agar url bisa dibuka)
 4. membuat model
 5. memebuat controller
