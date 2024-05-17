@@ -1,4 +1,4 @@
-akses url : localhost/nama_folder_projek/web
+akses url : localhost/nama_folder_projek/web <br>
 akses yii generator : localhost/nama_folder_projek/web/gii
 
 1. set up database
